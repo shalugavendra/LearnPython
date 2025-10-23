@@ -28,7 +28,7 @@ print(f"Are you a student ?: {is_student}")
 if is_student:
     print("You are a student")
 else:
-    print("You are not a stident")
+    print("You are not a student")
 
 user_name = "Bro Code"
 year = 2024
